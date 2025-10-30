@@ -1,0 +1,32 @@
+Feature,Importance
+Calorie_Burn_Efficiency,0.6635242
+Session_Duration (hours),0.33063883
+Experience_Level,0.005249987
+Workout_Type,0.00011568538
+Avg_BPM,5.2470255e-05
+Workout_Frequency (days/week),4.591653e-05
+Daily meals frequency,3.0179515e-05
+Water_Intake (liters),2.570933e-05
+Reps,2.1292726e-05
+Sets,2.0010315e-05
+BMI,1.898447e-05
+Macro_Balance,1.8605146e-05
+Workout_Intensity,1.8579403e-05
+Physical exercise,1.8431849e-05
+Carbs,1.8098017e-05
+Age,1.796541e-05
+Heart_Rate_Reserve,1.7079745e-05
+Difficulty Level,1.6915494e-05
+Resting_BPM,1.5894155e-05
+Fats,1.559321e-05
+meal_type,1.4496633e-05
+Calories,1.2770074e-05
+Weight (kg),1.2566896e-05
+Max_BPM,1.1275684e-05
+Height (m),1.1133636e-05
+Fat_Percentage,1.0648239e-05
+BMI_Category,9.464297e-06
+Proteins,8.34815e-06
+diet_type,6.3172915e-06
+Gender,2.5656107e-06
+HR_Zone,0.0
